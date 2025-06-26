@@ -11,3 +11,4 @@
   - [symbols](./symbols.md)
   - [keywords](./keywords.md)
 - [understand variable scope in python](./keywords.md#variables-and-values)
+- [Grammar Comparison: TypeScript with Python](./comparison.md)

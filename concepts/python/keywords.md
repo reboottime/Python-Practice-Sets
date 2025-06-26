@@ -120,7 +120,7 @@ if empty_list is empty_list2:
   - `local` is NOT a Python keyword - variables are local by default inside functions
   - These are declarations, not prefixes - you write them on separate lines
 
-**Python uses what's called the LEGB Rule - it searches through nested contexts from inner to outer:**.
+__Python uses what's called the LEGB Rule - it searches through nested contexts from inner to outer:__.
 
 ![variable scope](./imgs/variable-scope-searching-logic.png)
 
@@ -142,7 +142,3 @@ if empty_list is empty_list2:
 - `with` - context manager (great for file handling)
 - `lambda` - creates small anonymous functions
 - `yield` - used in generators (more advanced)
-
-Start with the control flow and function keywords first - these form the backbone of most Python programs. The others you'll naturally encounter as you write more code!
-
-```

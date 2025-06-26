@@ -16,5 +16,4 @@ Keywords: ordered, immutable
     print(student["name"])        # "Alice"
     print(student.get("age"))     # 20
     print(student.get("height", "Unknown")) 
-
 ```
