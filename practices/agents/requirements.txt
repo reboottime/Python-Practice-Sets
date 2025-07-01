@@ -1,0 +1,20 @@
+# Core dependencies
+openai-agents
+openai
+pydantic>=2.0.0
+python-dotenv
+
+# Async support
+asyncio-utils
+
+# Optional: For better async handling and HTTP requests
+aiohttp
+httpx
+
+# Development dependencies (optional)
+pytest
+pytest-asyncio
+
+import os
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") 
