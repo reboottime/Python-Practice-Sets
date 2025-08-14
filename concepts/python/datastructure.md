@@ -1,5 +1,21 @@
 # Data Structure
 
+## List, Array, Tuple
+
+Evaluation Aspects: immutable and the data type of its item
+
+- Both array and list are immutable to its length and list item
+  - array store the same data type
+  - list can store different data type
+- tuple: it is immutable to its length and items
+
+Sample code
+
+```python
+a
+
+```
+
 ## List, Tuple & Dictionary
 
 See symbols, `*` and `**`
