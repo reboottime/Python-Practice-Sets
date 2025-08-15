@@ -1,9 +1,9 @@
 # Frequently used modules
 
-
 ## modules
 
 - [asyncio](./asyncio.md)
+- [json](./json.md)
 - [dataclass](https://docs.python.org/3/library/dataclasses.html):
   - what problem does it solve?: A decorator that reduces boilerplate code by automatically generating:
     - methods 
